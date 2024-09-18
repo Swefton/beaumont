@@ -11,6 +11,8 @@
 - [ ] Training
 - [ ] Test Instructions
 - [ ] Instructions Working Properly
+- [ ] Website Frontend
+- [ ] Website Backend
 - [ ] Hosting
 
 ### Optional
